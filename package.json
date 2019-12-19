@@ -34,5 +34,19 @@
     "lodash": "^4.17.4",
     "ts-loader": "^4.0.1",
     "typescript": "^2.7.2"
-  }
+  },
+  "name": "fusioncore",
+  "description": "![alt tag](http://i.imgur.com/2E8aa6v.png)",
+  "version": "1.0.0",
+  "main": "webpack-custom-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devstrap/FusionCore.git"
+  },
+  "author": "Luc Maridor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devstrap/FusionCore/issues"
+  },
+  "homepage": "https://github.com/Devstrap/FusionCore#readme"
 }
