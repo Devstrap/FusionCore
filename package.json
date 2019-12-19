@@ -48,5 +48,8 @@
   "bugs": {
     "url": "https://github.com/Devstrap/FusionCore/issues"
   },
-  "homepage": "https://github.com/Devstrap/FusionCore#readme"
+  "homepage": "https://github.com/Devstrap/FusionCore#readme",
+  "directories": {
+    "test": "test"
+  }
 }
